@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+**/.DS_Store
+__MACOSX/
+# NetBeans
+/build/
+/dist/
+/nbproject/private/
+# Java
+*.class
+/ProgramacionGenerica/nbproject/private/
+
