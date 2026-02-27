@@ -2,11 +2,22 @@
 .DS_Store
 **/.DS_Store
 __MACOSX/
-# NetBeans
-/build/
-/dist/
-/nbproject/private/
-# Java
+
+# Java compilado
 *.class
-/ProgramacionGenerica/nbproject/private/
+
+# Carpetas de compilación
+build/
+dist/
+out/
+
+# NetBeans
+nbproject/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Sistema
+Thumbs.db
 
